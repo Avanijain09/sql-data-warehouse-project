@@ -83,6 +83,3 @@ Generate business insights through SQL analytics and dashboards.
 - 📌 **Customer Behavior** – Identify high-value customers, churn risks, and segments.
 - 📌 **Product Performance** – Track top-selling products, categories, and underperformers.
 - 📌 **Sales Trends** – Visualize trends across time, geography, and product lines.
-├── documentation/
-│   └── data_dictionary.md
-└── README.md
